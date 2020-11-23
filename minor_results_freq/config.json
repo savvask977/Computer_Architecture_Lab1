@@ -1425,7 +1425,7 @@
             "name": "cpu_clk_domain",
             "path": "system.cpu_clk_domain",
             "clock": [
-                500
+                10000
             ],
             "domain_id": -1,
             "eventq_index": 0,
