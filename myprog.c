@@ -4,11 +4,14 @@
 #include <time.h>
 #define DIM 1000
 
-/*
- * The program creates a random array of dimension DIM (specified by the user). 
- * Then it prints the elements of the array
- * 
+/* 
+ * The program creates 3 square matrices(arr1, arr2, sum) of size DIM (customizable).
+ * The first two matrices are filled with random values ranging from 0 - 100
+ * The third one(sum) is created with the sums of the other two.
+ * sum is finally printed out.
+ *
 */
+
 
 int main(int argc, char *argv)	{
 
