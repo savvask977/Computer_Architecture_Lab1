@@ -191,8 +191,9 @@ custom προσομοιώσεις και μέσω της τριβής με τα 
 ![0%](https://progress-bar.dev/0)    
 
 * **Βοηθητικό υλικό που θα μπορούσε να προστεθεί**:<br>Παρότι η εργασία είναι πλήρως κατατοπιστική, όσον αφορά τον gem 5 μας φάνηκε πολύ
-χρήσιμο και το παρακάτω tutorial:
- * [gem5 Workshop - Arm Research Summit 2017](https://www.youtube.com/watch?v=81lm0hp0t-M&list=PLr8iflX7VSArgv4cnqFq0qv6YtLfe4Kra) <br><br>
+χρήσιμο και το παρακάτω tutorial:  
+
+  * [gem5 Workshop - Arm Research Summit 2017](https://www.youtube.com/watch?v=81lm0hp0t-M&list=PLr8iflX7VSArgv4cnqFq0qv6YtLfe4Kra) <br><br>
 
 
 
