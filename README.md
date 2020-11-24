@@ -18,7 +18,7 @@
 ```bash
 <gem5_binary> [gem5_options] <simulation_script> [script_options]
 ```
-Τα αποτελέσματα αποθηκεύονται στο directory _results_hello_ και είναι τα εξής αρχεία:
+Τα αποτελέσματα αποθηκεύονται στο directory results_hello και είναι τα εξής αρχεία:
 
 * **stats.txt**
 * **config.ini**
